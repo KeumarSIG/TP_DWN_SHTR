@@ -20,6 +20,9 @@
     <sprites name="f_spr_environment">
       <sprite>sprites\spr_wall</sprite>
     </sprites>
+    <sprites name="f_spr_placeholder">
+      <sprite>sprites\spr_placeholder</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
